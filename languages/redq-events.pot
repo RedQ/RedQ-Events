@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RedQ Events\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-03 16:17+0600\n"
+"PO-Revision-Date: 2015-02-03 16:17+0600\n"
+"Last-Translator: UouApps <uouapps@live.it>\n"
+"Language-Team: Faysal Haque <faysal.haque@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../includes/admin/class-rq-events-admin.php:41
+msgid "Event product"
+msgstr ""
+
+#: ../includes/admin/class-rq-events-admin.php:96
+msgid "Are you sure you want to remove this ticket type?"
+msgstr ""
+
+#: ../includes/admin/class-rq-events-admin.php:121
+#: ../includes/admin/class-rq-events-admin.php:227
+#, php-format
+msgid "Ticket Type #%d"
+msgstr ""
+
+#: ../includes/admin/views/html-event-data.php:3
+msgid "Event Date Time"
+msgstr ""
+
+#: ../includes/admin/views/html-event-data.php:7
+msgid "Date starts at..."
+msgstr ""
+
+#: ../includes/admin/views/html-event-data.php:11
+msgid "Time starts at..."
+msgstr ""
+
+#: ../includes/admin/views/html-event-data.php:15
+msgid "Time stops at..."
+msgstr ""
+
+#: ../includes/admin/views/html-event-data.php:28
+msgid "Event Location"
+msgstr ""
+
+#: ../includes/admin/views/html-event-data.php:32
+msgid "Country name"
+msgstr ""
+
+#: ../includes/admin/views/html-event-data.php:36
+msgid "Region name"
+msgstr ""
+
+#: ../includes/admin/views/html-event-data.php:40
+msgid "Address name"
+msgstr ""
+
+#: ../includes/admin/views/html-event-data.php:44
+msgid "Zip code"
+msgstr ""
+
+#: ../includes/admin/views/html-event-data.php:47
+msgid "Click to lat & long"
+msgstr ""
+
+#: ../includes/admin/views/html-event-data.php:47
+msgid ""
+"Type any field to your address and click to convert to get google map "
+"location"
+msgstr ""
+
+#: ../includes/admin/views/html-event-data.php:50
+msgid "Latitude"
+msgstr ""
+
+#: ../includes/admin/views/html-event-data.php:54
+msgid "Longitude"
+msgstr ""
+
+#: ../includes/admin/views/html-event-tab.php:1
+msgid "Tickets"
+msgstr ""
+
+#: ../includes/admin/views/html-event-ticket.php:9
+msgid "Remove"
+msgstr ""
+
+#: ../includes/admin/views/html-event-ticket.php:10
+msgid "Click to toggle"
+msgstr ""
+
+#: ../includes/admin/views/html-event-ticket.php:21
+msgid "Ticket Type Name"
+msgstr ""
+
+#: ../includes/admin/views/html-event-ticket.php:22
+msgid "Ticket Type #"
+msgstr ""
+
+#: ../includes/admin/views/html-event-ticket.php:25
+msgid "Base Cost"
+msgstr ""
+
+#: ../includes/admin/views/html-event-tickets.php:6
+msgid "Ticket types"
+msgstr ""
+
+#: ../includes/admin/views/html-event-tickets.php:7
+msgid "Close all"
+msgstr ""
+
+#: ../includes/admin/views/html-event-tickets.php:7
+msgid "Expand all"
+msgstr ""
+
+#: ../includes/admin/views/html-event-tickets.php:27
+msgid ""
+"Ticket types allow you to offer different costs for different types of "
+"individuals, for Regular, V.I.P and Elite."
+msgstr ""
+
+#: ../includes/admin/views/html-event-tickets.php:45
+msgid "Add Ticket Type"
+msgstr ""
+
+#: ../includes/class-rq-event-form.php:44
+msgid "This date is unavailable"
+msgstr ""
+
+#: ../includes/class-rq-event-form.php:100 ../redq-event.php:104
+msgid "Ticket Type"
+msgstr ""
+
+#: ../includes/class-rq-event-form.php:195
+msgid "Please choose a ticket type"
+msgstr ""
+
+#: ../includes/class-rq-event-form.php:199
+msgid "Please select a ticket spots"
+msgstr ""
+
+#: ../includes/class-rq-event-form.php:205
+msgid "No ticket type found"
+msgstr ""
+
+#: ../includes/class-rq-events-cart.php:37
+msgid "Event!"
+msgstr ""
+
+#: ../includes/class-rq-events-cart.php:68
+#: ../includes/class-rq-events-cart.php:72
+#, php-format
+msgid "%s%.2f"
+msgstr ""
+
+#: ../includes/class-rq-events-cart.php:75
+#, php-format
+msgid "%s%.2f - %s%.2f"
+msgstr ""
+
+#: ../includes/class-rq-events-cart.php:79
+#: ../includes/class-wc-product-event.php:75
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../includes/class-rq-events-cart.php:230
+#: ../includes/rq-events-functions.php:17
+msgid "No of ticket(s)"
+msgstr ""
+
+#: ../includes/class-rq-events-widgets.php:11
+msgid "RedQ: Upcoming Events"
+msgstr ""
+
+#: ../includes/class-rq-events-widgets.php:14
+msgid "Show upcoming events widget"
+msgstr ""
+
+#: ../includes/class-rq-events-widgets.php:53
+msgid " ("
+msgstr ""
+
+#: ../includes/class-rq-events-widgets.php:55
+msgid " )"
+msgstr ""
+
+#: ../includes/class-rq-events-widgets.php:71
+msgid "Upcoming Events"
+msgstr ""
+
+#: ../includes/class-rq-events-widgets.php:77
+msgid "Title:"
+msgstr ""
+
+#: ../includes/class-rq-events-widgets.php:81
+msgid "Number of events:"
+msgstr ""
+
+#: ../includes/class-wc-product-event.php:65
+msgid "@"
+msgstr ""
+
+#: ../includes/class-wc-product-event.php:133
+msgid "all day"
+msgstr ""
+
+#: ../includes/rq-events-functions.php:11
+#: ../templates/event-form/ticket-form.php:5
+msgid "Ticket type"
+msgstr ""
+
+#: ../includes/rq-events-functions.php:13
+msgid "Event date"
+msgstr ""
+
+#: ../includes/rq-events-functions.php:15
+msgid "Event time"
+msgstr ""
+
+#: ../redq-event.php:126
+msgid ""
+"Please Install WooCommerce First before activating this Plugin. You can "
+"download WooCommerce from <a href=\"http://wordpress.org/plugins/woocommerce/"
+"\">here</a>."
+msgstr ""
+
+#: ../templates/event-form/ticket-form.php:6
+msgid "Spots"
+msgstr ""
+
+#: ../templates/event-form/ticket-form.php:7
+msgid "Total"
+msgstr ""
+
+#: ../templates/event-form/ticket-form.php:14
+msgid "Please select ticket"
+msgstr ""
+
+#: ../templates/event-form/ticket-form.php:36
+msgid "Event is expired"
+msgstr ""
+
+#: ../templates/single-product/add-to-cart/event.php:21
+msgid "Your browser must support JavaScript in order to buy a ticket."
+msgstr ""

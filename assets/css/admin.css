@@ -1,0 +1,27 @@
+#woocommerce-product-data ul.wc-tabs li.ticket_options a:before {
+	content: "\e600";
+}
+
+#woocommerce-product-data ul.wc-tabs li.time_options a:before {
+	content: "\e012";
+}
+#woocommerce-product-data ul.wc-tabs li.location_options a:before {
+	content: "\e01b";
+}
+.wc-metaboxes-wrapper .wc-metabox table td input.short {
+	width: 200px;
+}
+.wc-metaboxes-wrapper .wc-metabox h3 button {
+	float: right;
+}
+#events_tickets .rq_events_tickets.wc-metaboxes label {
+	width: auto;
+	float: none;
+	margin: 0;
+}
+#events_tickets .toolbar {
+	overflow: hidden;
+}
+#map_canvas {
+	height: 250px;
+}
