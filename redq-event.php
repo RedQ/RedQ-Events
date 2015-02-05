@@ -4,8 +4,8 @@ Plugin Name: RedQ Events
 Plugin URI: https://github.com/RedQ/RedQ-Events
 Description: Event Management System. Buy sell event tickets online with WooCommerce
 Version: 1.0.0
-Author: Faysal Haque
-Author URI: http://faysalhaque.github.io/
+Author: RedQ
+Author URI: https://github.com/RedQ
 License: GPLv2 or later
 Domain Path: /languages
 Text Domain: redq-events
