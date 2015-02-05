@@ -1,10 +1,10 @@
 === RedQ Events ===
-Contributors: Faysal Haque
+Contributors: RedQ
 Tags: WooCommerce, buy sell online tickets, events
 Donate link: https://github.com/RedQ/RedQ-Events/wiki/Donation
 Requires at least: 3.1
 Tested up to: 4.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
