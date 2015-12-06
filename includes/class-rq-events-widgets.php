@@ -58,7 +58,7 @@ class rq_events_upcoming_events extends WP_Widget {
 
 			<?php endwhile; ?>
 			</ul> 
-		<?php echo $args['after_widget'];
+		<?php echo ( isset($args['after_widget']) ) ? $args['after_widget'] : '';
 	}
 		
 	// Widget Backend 

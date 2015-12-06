@@ -28,7 +28,7 @@ class WC_Events_Cart {
 	}
 
 	public function rq_events_flash_message() {
-		global $product;
+		global $product, $post;
 
 		if( $product->product_type !== 'event') {
 			return;
@@ -51,7 +51,7 @@ class WC_Events_Cart {
 					'post_status' => 'publish'
 				);
 
-	    $children_array = get_children( $args, $output );
+	    $children_array = get_children( $args );
 	    if (! empty( $children_array ) ) {
 			$price           = array();
 			$currency_symbol = get_woocommerce_currency_symbol();

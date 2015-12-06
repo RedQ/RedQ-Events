@@ -1,10 +1,10 @@
 === RedQ Events ===
 Contributors: RedQ
-Tags: WooCommerce, buy sell online tickets, events
+Tags: WooCommerce, buy sell online tickets, events, checkout, e-commerce, price, pricing, purchase, shop, store, wp e-commerce
 Donate link: https://github.com/RedQ/RedQ-Events/wiki/Donation
 Requires at least: 3.1
-Tested up to: 4.1
-Stable tag: 1.0.1
+Tested up to: 4.3.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,6 +27,9 @@ To install the plugin go to the wordpress codex: http://codex.wordpress.org/Mana
 
 Online documentation: https://github.com/RedQ/RedQ-Events/wiki
 
+= Introductory Video =
+[youtube https://www.youtube.com/watch?v=aIDkZyn-iNk]
+
 == Frequently Asked Questions ==
 = FAQ =
 
@@ -34,7 +37,25 @@ Which payment gateway support ?
 
 	- It is build with WooCommmerce so it supports every payment gateway that are supported by WooCommmerce. By default it supports payPal, Direct Bank Tranfer , and MasterCard
 
+Does it support multiple inventory type?
+	- No
+	
 == Screenshots ==
-
+1. Single Details Page
+2. Event Date and Location Setup
+3. Cart Page Display
+4. Ticket Type Seletor
 
 == Changelog ==
+= 1.0.2 - 2015-12-06 =
+* Small issues fixed with latest WP and WooCommerce
+* Readme.txt files updated
+* Image screenshot added
+* Youtube video added to the desciption
+
+= 1.0.1 - 2015-02-06 =
+* Small fix
+* Readme.txt files updated
+
+= 1.0 - 2015-02-05 =
+* Initial Public Release
