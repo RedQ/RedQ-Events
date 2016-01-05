@@ -250,7 +250,7 @@ class WC_Events_Cart {
 
 			// Add summary of details to line item
 			foreach ( $values['event'] as $key => $value ) {
-				echo $key; echo $value;
+				
 				if ( strpos( $key, '_' ) !== 0 ) {
 					woocommerce_add_order_item_meta( $item_id, get_rq_event_data_label( $key, $product ), $value );
 				}

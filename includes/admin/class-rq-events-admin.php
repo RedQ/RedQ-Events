@@ -21,7 +21,7 @@ class RQ_Events_Admin {
 		add_action( 'woocommerce_process_product_meta', array( $this,'save_product_data' ), 20 );
 
 		add_action( 'wp_ajax_rq_event_add_ticket', array( $this, 'add_event_ticket' ) );
-		add_action( 'wp_ajax_woocommerce_rq_event_remove_ticket', array( $this, 'remove_event_ticket' ) );
+		add_action( 'wp_ajax_rq_event_remove_ticket', array( $this, 'remove_event_ticket' ) );
 	}
 
 	/**

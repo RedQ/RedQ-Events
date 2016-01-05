@@ -1,10 +1,10 @@
 === RedQ Events ===
 Contributors: RedQ
-Tags: WooCommerce, buy sell online tickets, events, checkout, e-commerce, price, pricing, purchase, shop, store, wp e-commerce
+Tags: WooCommerce, buy sell online tickets, events, checkout, e-commerce, price, pricing, purchase, shop, store, wp e-commerce, calendar, date time, google map, location service 
 Donate link: https://github.com/RedQ/RedQ-Events/wiki/Donation
 Requires at least: 3.1
 Tested up to: 4.3.1
-Stable tag: 1.0.2
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,6 +20,8 @@ Major features in RedQ Events include:
 * Upcoming events display widget
 * Add google map location in the event
 
+= Introductory Video =
+[youtube https://www.youtube.com/watch?v=aIDkZyn-iNk]
 
 == Installation ==
 
@@ -27,18 +29,16 @@ To install the plugin go to the wordpress codex: http://codex.wordpress.org/Mana
 
 Online documentation: https://github.com/RedQ/RedQ-Events/wiki
 
-= Introductory Video =
-[youtube https://www.youtube.com/watch?v=aIDkZyn-iNk]
-
 == Frequently Asked Questions ==
 = FAQ =
 
 Which payment gateway support ?
 
-	- It is build with WooCommmerce so it supports every payment gateway that are supported by WooCommmerce. By default it supports payPal, Direct Bank Tranfer , and MasterCard
+`It is build with WooCommmerce so it supports every payment gateway that are supported by WooCommmerce. By default it supports payPal, Direct Bank Tranfer , and MasterCard`
 
 Does it support multiple inventory type?
-	- No
+
+    `No`
 	
 == Screenshots ==
 1. Single Details Page
@@ -47,6 +47,12 @@ Does it support multiple inventory type?
 4. Ticket Type Seletor
 
 == Changelog ==
+= 1.0.4 - 2016-01-05 =
+* Remove enent tickets via AJAX fixed
+
+= 1.0.3 - 2015-12-14 =
+* Syntax Error on checkout page fix
+
 = 1.0.2 - 2015-12-06 =
 * Small issues fixed with latest WP and WooCommerce
 * Readme.txt files updated

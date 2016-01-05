@@ -3,7 +3,7 @@
 Plugin Name: RedQ Events
 Plugin URI: https://github.com/RedQ/RedQ-Events
 Description: Event Management System. Buy sell event tickets online with WooCommerce
-Version: 1.0.2
+Version: 1.0.4
 Author: RedQ Team
 Author URI: http://www.redqteam.com/
 License: GPLv2 or later
@@ -45,7 +45,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 		 * Constructor
 		 */
 		public function __construct() {
-			define( 'RQ_EVENTS_VERSION', '1.0.1' );
+			define( 'RQ_EVENTS_VERSION', '1.0.4' );
 			define( 'RQ_EVENTS_TEMPLATE_PATH', untrailingslashit( plugin_dir_path( __FILE__ ) ) . '/templates/' );
 			define( 'RQ_EVENTS_PLUGIN_URL', untrailingslashit( plugins_url( basename( plugin_dir_path( __FILE__ ) ), basename( __FILE__ ) ) ) );
 			define( 'RQ_EVENTS_MAIN_FILE', __FILE__ );
